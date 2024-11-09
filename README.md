@@ -6,6 +6,7 @@
 - **User-Friendly Interface**: Intuitive and visually appealing design for seamless navigation and an enjoyable reading experience. 
 - **Cross-Platform**: Compatible with both Android and iOS devices. 
 - **Save Progress**: Users can save their progress and continue their stories from where they left off. 
+- **Alexa Capabilities**: Integrated with Amazon Alexa for voice-controlled storytelling.
 
 ## Content
 The story was written by writer Dana Enache, all rights reserved. For more information, visit www.danaenache.com.
