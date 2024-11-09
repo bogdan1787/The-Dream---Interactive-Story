@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:StoryTellerApp"
+             x:Class="StoryTellerApp.MainPage" BackgroundColor="Black">
+    <StackLayout   VerticalOptions="Center" HorizontalOptions="Center" BackgroundColor="Black">
+        <Label Text="Story Teller"   HorizontalOptions="Center" FontAttributes="Bold" FontSize="30" x:Name="titleLabel" TextColor="AliceBlue"/>
+        <Button x:Name="ContinueButton" Clicked="ContinueButton_OnClicked" Text="Continue" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" WidthRequest="200" />
+        <Button Text="New game" Clicked="Button_OnClicked" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" WidthRequest="200" />
+        <Button Text="Credits" x:Name="CreditsButton" Clicked="CreditsButton_OnClicked" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" WidthRequest="200"  />
+    </StackLayout>
+</ContentPage>
